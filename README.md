@@ -66,6 +66,7 @@ bem avaliados por seu desempenho.
 Este grupo pode indicar os empregados que deixaram a empresa
 porque encontraram outra oportunidade de trabalho.
 
+![clusters](https://user-images.githubusercontent.com/60453201/163038812-9e55cc88-293e-43c8-8e38-94c5029b4335.png)
 
 Para a estimativa com o objetivo de predizer se um empregado vai
 deixar a empresa foi implementado um modelo utilizando o algoritmo
