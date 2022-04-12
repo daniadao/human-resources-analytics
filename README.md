@@ -1,4 +1,5 @@
 ﻿# Human Resources Analytics
+ ![Human-Resource-Analytics](https://user-images.githubusercontent.com/60453201/163038025-d710c813-4733-44df-b518-6e252d3775c7.jpeg)
  ## Objetivo do Projeto
  Neste projeto cobrindo todas as etapas de um projeto real de Data
 Science pude resolver o problema de como utilizar dados para
