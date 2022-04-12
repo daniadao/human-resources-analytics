@@ -18,6 +18,8 @@ com base em atributos como comportamento e carga de trabalho, nível
 de satisfação com a empresa e resultados de performance.
 
 ## Solução Proposta
+
+<img width="593" alt="tecnologias" src="https://user-images.githubusercontent.com/60453201/163038368-79ad21dc-c4b8-4baa-8e0f-af4b188ff74f.png">
 Para resolver esse problema foi construído uma solução completa para
 armazenamento, gestão e automatização de fluxos de dados utilizando
 tecnologias como Apache Airflow, Docker e Minio além de explorar
@@ -50,19 +52,21 @@ Através da análise foi possível desenvolver 3 grupos distintos para
 agrupar colaboradores que deixaram a empresa por comportamentos
 similares que são:
 
-Grupo 1 (Empregados insatisfeitos e trabalhadores): A satisfação foi
+- Grupo 1 (Empregados insatisfeitos e trabalhadores): A satisfação foi
 inferior a 20 e as avaliações foram superiores a 75.
 Que corresponde ao grupo de funcionários que deixaram a empresa e
 eram bons trabalhadores, mas se sentiam péssimos no trabalho.
-Grupo 2 (Empregados ruins e insatisfeitos): Satisfação entre 35 à 50
+- Grupo 2 (Empregados ruins e insatisfeitos): Satisfação entre 35 à 50
 e as suas avaliações abaixo de ~ 58.
 Corresponde aos empregados que foram mal avaliados e se sentiram
 mal no trabalho.
-Grupo 3 (Empregados satisfeitos e trabalhadores):
+- Grupo 3 (Empregados satisfeitos e trabalhadores):
 Representa os empregados ideais, que gostam do seu trabalho e são
 bem avaliados por seu desempenho.
 Este grupo pode indicar os empregados que deixaram a empresa
 porque encontraram outra oportunidade de trabalho.
+
+
 Para a estimativa com o objetivo de predizer se um empregado vai
 deixar a empresa foi implementado um modelo utilizando o algoritmo
 Gradient Boosting Classifier que atingiu uma performance de AUC
