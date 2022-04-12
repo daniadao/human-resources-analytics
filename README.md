@@ -53,6 +53,8 @@ deixaram a empresa.
 - Colaboradores com baixa performance tendem a deixar a empresa.
 - Colaboradores insatisfeitos com a empresa têm uma maior tendência
 para evadir.
+![satisfacao](https://user-images.githubusercontent.com/60453201/163040226-5a6fa458-e72c-4dc7-b6e5-eff8249b3cdd.png)
+![projetos-avaliacoes](https://user-images.githubusercontent.com/60453201/163040213-9e4edbf5-4478-476a-ab86-5662db90175a.png)
 
 Através da análise foi possível desenvolver 3 grupos distintos para
 agrupar colaboradores que deixaram a empresa por comportamentos
@@ -88,5 +90,5 @@ Humanos.
 Como um processo de melhoria contínua podemos desenvolver uma
 automação para executar não só o pipeline de coleta e transformação
 de dados como automatizar os passo da etapa de Machine Learning e
-Deplo
+Deploy
 
