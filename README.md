@@ -19,6 +19,8 @@ de satisfação com a empresa e resultados de performance.
 
 ## Solução Proposta
 
+### Ferramentas
+
 <img width="593" alt="tecnologias" src="https://user-images.githubusercontent.com/60453201/163038368-79ad21dc-c4b8-4baa-8e0f-af4b188ff74f.png">
 Para resolver esse problema foi construído uma solução completa para
 armazenamento, gestão e automatização de fluxos de dados utilizando
@@ -27,6 +29,9 @@ uma suíte poderosa de tecnologias para trabalhar com Análise de
 Dados e Machine Learning que são: Pandas, Scikit-learn, Pycaret,
 SweetViz, Streamlit.
 
+### Infraestrutura
+
+<img width="653" alt="overview-solucao" src="https://user-images.githubusercontent.com/60453201/163039197-3ce72f6b-07c4-45cc-a4af-2751fb21e048.png">
 Depois da infraestrutura devidamente criada e configurada, levando em
 consideração o desafio proposto foram criados e modelados atributos
 relevantes para análise utilizando fontes de dados diversas como
@@ -36,18 +41,19 @@ Gerenciamento de Banco de Dados MySQL.
 ## Resultados
 Na etapa de Análise Exploratória de Dados foram descobertos os vários
 insights importantes abaixo:
-A empresa tem uma rotatividade de 24%.
-Podemos assumir que os empregados que mais deixam a empresa
+- A empresa tem uma rotatividade de 24%.
+- Podemos assumir que os empregados que mais deixam a empresa
 estão menos satisfeitos.
-Existe um valor considerável de empregados insatisfeitos.
-A maioria dos empregados que saíram tinha salário baixo ou médio.
-Os departamentos de vendas, técnico e suporte são top 3
+- Existe um valor considerável de empregados insatisfeitos.
+- A maioria dos empregados que saíram tinha salário baixo ou médio.
+- Os departamentos de vendas, técnico e suporte são top 3
 departamentos com maior índice de turnover.
-Todos os empregados que estavam inseridos sem muitos projetos
+- Todos os empregados que estavam inseridos sem muitos projetos
 deixaram a empresa.
-Colaboradores com baixa performance tendem a deixar a empresa.
-Colaboradores insatisfeitos com a empresa têm uma maior tendência
+- Colaboradores com baixa performance tendem a deixar a empresa.
+- Colaboradores insatisfeitos com a empresa têm uma maior tendência
 para evadir.
+
 Através da análise foi possível desenvolver 3 grupos distintos para
 agrupar colaboradores que deixaram a empresa por comportamentos
 similares que são:
